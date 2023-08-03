@@ -34,12 +34,12 @@ const benefitOne = {
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "What we offer",
+  desc: "See our different services.",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
+      title: "Website Development",
       desc: "Nextly is designed as a mobile first responsive template.",
       icon: <DevicePhoneMobileIcon />,
     },

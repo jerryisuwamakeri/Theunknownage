@@ -46,7 +46,7 @@ const benefitTwo = {
     {
       title: "Social Media Management",
       desc: "We'll curate your brand's story across social platforms, creating meaningful interactions and a loyal online community.",
-      icon: <AdjustmentsHorizontalIcon />,
+      icon: <MediaIcon />,
     },
     {
       title: "Dark & Light Mode",

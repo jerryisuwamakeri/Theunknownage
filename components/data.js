@@ -21,13 +21,13 @@ const benefitOne = {
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Timely delivery of Projects",
+      desc: "We do not only just solve problems, we solve problems while we utilize time.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Skillsets",
+      desc: "We have staff of exquisite skills and well grounded knowledge on Digital space which will build you any needed Solution",
       icon: <CursorArrowRaysIcon />,
     },
   ],

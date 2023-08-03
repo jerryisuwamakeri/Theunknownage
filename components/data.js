@@ -39,8 +39,8 @@ const benefitTwo = {
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Website Development",
-      desc: "Nextly is designed as a mobile first responsive template.",
+      title: "Website Design and Development",
+      desc: "Elevate your online presence with captivating websites that combine stunning design, seamless functionality, and user-centered experiences.",
       icon: <DevicePhoneMobileIcon />,
     },
     {

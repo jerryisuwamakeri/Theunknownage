@@ -12,7 +12,7 @@ import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
   title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  desc: "We will Build you a stunning website using React, Svelte, Vue, React, web components, or just plain HTML + JavaScript and other Content Management Systems of your Choice.",
   image: benefitOneImg,
   bullets: [
     {

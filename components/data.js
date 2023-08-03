@@ -53,6 +53,21 @@ const benefitTwo = {
       desc: "We will build you Responsive Android and iOS Applications ",
       icon: <AppIcon />,
     },
+    {
+      title: "Search Engine Optimization (SEO)",
+      desc: "Dominate search engine rankings and drive organic traffic to your website with our data-driven SEO strategies.",
+      icon: <DevicePhoneMobileIcon />,
+    },
+    {
+      title: "Content Marketing",
+      desc: "Deliver value to your audience through compelling content that educates, entertains, and establishes your authority in the industry.",
+      icon: <DevicePhoneMobileIcon />,
+    },
+    {
+      title: "Graphic Design and Branding",
+      desc: "From logos to visual identity, we'll create a cohesive brand image that resonates with your target audience.",
+      icon: <DevicePhoneMobileIcon />,
+    },
   ],
 };
 

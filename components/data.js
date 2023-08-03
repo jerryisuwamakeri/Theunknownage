@@ -49,9 +49,9 @@ const benefitTwo = {
       icon: <MediaIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
-      icon: <SunIcon />,
+      title: "Mobile Apps Development",
+      desc: "We will build you Responsive Android and iOS Applications ",
+      icon: <AppIcon />,
     },
   ],
 };

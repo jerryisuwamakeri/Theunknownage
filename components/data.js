@@ -11,13 +11,13 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
+  title: "Our Benefits",
   desc: "We will Build you a stunning website using React, Svelte, Vue, React, web components, or just plain HTML + JavaScript and other Content Management Systems of your Choice.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "We are Customer centric",
+      desc: "We are customer inspired and your goals are our ultimate drive.",
       icon: <FaceSmileIcon />,
     },
     {

@@ -44,8 +44,8 @@ const benefitTwo = {
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Social Media Management",
+      desc: "We'll curate your brand's story across social platforms, creating meaningful interactions and a loyal online community.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
